@@ -161,7 +161,7 @@
             </p>
 
             <div class="watches-visual">
-                <img src="C:\Users\maria\Downloads\m279384rbr-0004.jpg" alt="Rolex Watches">
+                <img src="https://i.postimg.cc/nr0jwKkQ/m279384rbr-0004.jpg" alt="Rolex Watches">
             </div>
 
             <a class="btn-main">اكتشف المزيد</a>
@@ -175,7 +175,7 @@
 
                 <div class="product-card">
                     <span class="discount-tag">20% OFF</span>
-                    <img src="C:\Users\maria\Downloads\داي ديت.jpg">
+                    <img src="https://i.postimg.cc/vT3gS7z4/day-dyt.jpg">
                     <div class="product-name">داي ديت</div>
                     <div>
                         <span class="new-price">$151,000</span>
@@ -186,7 +186,7 @@
 
                 <div class="product-card">
                     <span class="discount-tag">20% OFF</span>
-                    <img src="C:\Users\maria\Downloads\دﻳﺖ ﺟﺴﺖ.jpg">
+                    <img src="https://i.postimg.cc/hvpz38rT/dyt-jst.jpg">
                     <div class="product-name">ديت جست</div>
                     <div>
                         <span class="new-price">$22,500</span>
@@ -197,7 +197,7 @@
 
                 <div class="product-card">
                     <span class="discount-tag">20% OFF</span>
-                    <img src="C:\Users\maria\Downloads\يدي ديت جست.jpg">
+                    <img src="https://i.postimg.cc/0j8KfXpJ/ydy-dyt-jst.jpg">
                     <div class="product-name">ليدي ديت جست</div>
                     <div>
                         <span class="new-price">$145,000</span>
@@ -208,7 +208,7 @@
 
                 <div class="product-card">
                     <span class="discount-tag">20% OFF</span>
-                    <img src="C:\Users\maria\Downloads\ﻛﻮزﻣﻮﻏﺮاف داﻳﺘﻮﻧﺎ.jpg">
+                    <img src="https://i.postimg.cc/90WwpgGG/kwzmwghraf-daytwna.jpg">
                     <div class="product-name">كوزموغراف دايتونا</div>
                     <div>
                         <span class="new-price">$255,000</span>
